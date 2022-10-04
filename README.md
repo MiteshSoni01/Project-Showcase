@@ -1,4 +1,4 @@
-# This is a complete notebook classifying Breast Cancer Classification Using both Machine Learning and Deep Learning.
+# This is a complete notebook classifying Breast Cancer using both Machine and Deep Learning.
 
 In Machine Learning I used Various Techniques to come to a Particular Model. 
 Specifically, used Randomized Search CV to get the best model and its parameters.
